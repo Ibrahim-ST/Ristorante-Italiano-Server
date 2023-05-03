@@ -1,8 +1,9 @@
 [
   {
-    "id": 1,
+    "id" : "G4H6J8L2",
+    "chef_id": 1,
     "chef_name": "Giovanni Rossi",
-    "chef_picture": "https://example.com/chef/giovanni-rossi/profile-picture",
+    "chef_picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2022/08/italian-chef.jpg?quality=82&strip=1",
     "years_of_experience": 15,
     "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
     "recipes": [
@@ -54,9 +55,10 @@
     "likes": 1289
   },
   {
-    "id": 2,
+    "id" : "V3N7Q2T9",
+    "chef_id": 2,
     "chef_name": "Giovanni Rossi 2",
-    "chef_picture": "https://example.com/chef/giovanni-rossi/profile-picture",
+    "chef_picture": "https://assets.architecturaldigest.in/photos/600837f1e6e1f64740188ee5/master/pass/Italian-food_1-1366x768.jpg",
     "years_of_experience": 15,
     "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
     "recipes": [
@@ -108,9 +110,175 @@
     "likes": 1289
   },
   {
-    "id": 3,
+    "id" : "K9M2P5F7",
+    "chef_id": 3,
     "chef_name": "Giovanni Rossi 3",
-    "chef_picture": "https://example.com/chef/giovanni-rossi/profile-picture",
+    "chef_picture": "https://img.freepik.com/premium-photo/young-chef-preparing-traditional-italian-pizza_130291-3538.jpg",
+    "years_of_experience": 15,
+    "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crisp. 3. Beat eggs and mix with grated parmesan cheese and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir well and serve immediately.",
+        "rating": 4.7,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/1/favorite"
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil leaves",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on the dough. 4. Sprinkle shredded mozzarella cheese on top. 5. Add fresh basil leaves. 6. Drizzle with olive oil. 7. Bake for 10-12 minutes or until crust is golden brown.",
+        "rating": 4.5,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/2/favorite"
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "parmesan cheese",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Cook ground beef in a pan with onion and garlic. 3. Add tomato sauce and simmer for 10 minutes. 4. Mix ricotta cheese, shredded mozzarella cheese, grated parmesan cheese, salt, and pepper. 5. In a baking dish, layer lasagna noodles, meat sauce, and cheese mixture. 6. Repeat layers. 7. Bake at 375°F for 30 minutes or until cheese is melted and bubbly.",
+        "rating": 4.8,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/3/favorite"
+      }
+    ],
+    "likes": 1289
+  },
+  {
+    "id" : "K9M2P5F7",
+    "chef_id": 4,
+    "chef_name": "Giovanni Rossi 3",
+    "chef_picture": "https://www.shutterstock.com/image-photo/italian-chef-spaghetti-kitchen-260nw-2097530812.jpg",
+    "years_of_experience": 15,
+    "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crisp. 3. Beat eggs and mix with grated parmesan cheese and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir well and serve immediately.",
+        "rating": 4.7,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/1/favorite"
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil leaves",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on the dough. 4. Sprinkle shredded mozzarella cheese on top. 5. Add fresh basil leaves. 6. Drizzle with olive oil. 7. Bake for 10-12 minutes or until crust is golden brown.",
+        "rating": 4.5,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/2/favorite"
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "parmesan cheese",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Cook ground beef in a pan with onion and garlic. 3. Add tomato sauce and simmer for 10 minutes. 4. Mix ricotta cheese, shredded mozzarella cheese, grated parmesan cheese, salt, and pepper. 5. In a baking dish, layer lasagna noodles, meat sauce, and cheese mixture. 6. Repeat layers. 7. Bake at 375°F for 30 minutes or until cheese is melted and bubbly.",
+        "rating": 4.8,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/3/favorite"
+      }
+    ],
+    "likes": 1289
+  },
+  {
+    "id" : "K9M2P5F7",
+    "chef_id": 5,
+    "chef_name": "Giovanni Rossi 3",
+    "chef_picture": "https://us.123rf.com/450wm/serezniy/serezniy2302/serezniy230229058/198803059-mature-male-chef-with-tasty-pizza-on-dark-background.jpg?ver=6",
+    "years_of_experience": 15,
+    "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. 2. Cook pancetta in a pan until crisp. 3. Beat eggs and mix with grated parmesan cheese and black pepper. 4. Drain spaghetti and add to the pan with pancetta. 5. Remove from heat and add egg mixture. 6. Stir well and serve immediately.",
+        "rating": 4.7,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/1/favorite"
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil leaves",
+          "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 450°F. 2. Roll out pizza dough and place on a baking sheet. 3. Spread tomato sauce on the dough. 4. Sprinkle shredded mozzarella cheese on top. 5. Add fresh basil leaves. 6. Drizzle with olive oil. 7. Bake for 10-12 minutes or until crust is golden brown.",
+        "rating": 4.5,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/2/favorite"
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "parmesan cheese",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Cook ground beef in a pan with onion and garlic. 3. Add tomato sauce and simmer for 10 minutes. 4. Mix ricotta cheese, shredded mozzarella cheese, grated parmesan cheese, salt, and pepper. 5. In a baking dish, layer lasagna noodles, meat sauce, and cheese mixture. 6. Repeat layers. 7. Bake at 375°F for 30 minutes or until cheese is melted and bubbly.",
+        "rating": 4.8,
+        "favorite_button": "https://example.com/chef/giovanni-rossi/recipes/3/favorite"
+      }
+    ],
+    "likes": 1289
+  },
+  {
+    "id" : "K9M2P5F7",
+    "chef_id": 6,
+    "chef_name": "Giovanni Rossi 3",
+    "chef_picture": "https://previews.123rf.com/images/auremar/auremar1209/auremar120900296/15072697-italian-cook-cooking.jpg",
     "years_of_experience": 15,
     "description": "Giovanni Rossi is an Italian chef with over 15 years of experience. He grew up in a family of passionate cooks and learned to appreciate the art of cooking at a young age. After completing culinary school, he worked in various restaurants in Italy and around the world, perfecting his skills and developing his own unique style. His dishes are inspired by traditional Italian cuisine, but he also enjoys experimenting with new flavors and techniques. When he's not in the kitchen, Giovanni enjoys traveling, reading, and spending time with his family.",
     "recipes": [
